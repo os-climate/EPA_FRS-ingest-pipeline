@@ -1,9 +1,8 @@
-# EPA_FRS-ingest-pipeline
+#  EPA_FRS-ingest-pipeline
 
 template for the team to use
 
-Project Organization
-------------
+## Project Organization
 
     ├── LICENSE
     ├── Makefile                                <- Makefile with commands like `make data` or `make train`
@@ -69,6 +68,6 @@ Project Organization
     |
     └── tox.ini                                 <- tox file with settings for running tox; see tox.readthedocs.io
 
---------
+---
 
 Project based on the [cookiecutter](https://drivendata.github.io/cookiecutter-data-science/) data science project template
